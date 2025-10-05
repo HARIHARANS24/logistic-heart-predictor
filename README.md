@@ -13,7 +13,7 @@ heart_disease_detection_using_logistic_regression/
 └── requirements.txt                           # Project dependencies
 ```
 
-## 🚀 Features
+## 🚀 Features 
 
 - Real-time heart disease prediction
 - User-friendly web interface
