@@ -5,7 +5,7 @@ A machine learning web application that predicts the likelihood of heart disease
 ## 📋 Project Structure
 
 ```
-heart_disease_detection_using_logistic_regression/
+heart_disease_detection_using_logistic_regression/ 
 ├── app.py                                      # Streamlit web application
 ├── heart_disease_detection_using_logistic_regression.py  # Core ML model implementation
 ├── Heart_Disease_Detection_Using_Logistic_Regression.ipynb  # Jupyter notebook for analysis
