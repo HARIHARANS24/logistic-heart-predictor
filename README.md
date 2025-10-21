@@ -10,7 +10,7 @@ heart_disease_detection_using_logistic_regression/
 ├── heart_disease_detection_using_logistic_regression.py  # Core ML model implementation
 ├── Heart_Disease_Detection_Using_Logistic_Regression.ipynb  # Jupyter notebook for analysis
 ├── dataset.csv                                # Heart disease dataset
-└── requirements.txt                           # Project dependencies
+└── requirements.txt                           # Project dependencies 
 ```
 
 ## 🚀 Features 
