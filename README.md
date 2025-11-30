@@ -12,7 +12,7 @@ heart_disease_detection_using_logistic_regression/
 ├── dataset.csv                                # Heart disease dataset  
 └── requirements.txt                           # Project dependencies 
 ```  
-
+ 
 ## 🚀 Features 
 
 - Real-time heart disease prediction
