@@ -11,7 +11,7 @@ heart_disease_detection_using_logistic_regression/
 ├── Heart_Disease_Detection_Using_Logistic_Regression.ipynb  # Jupyter notebook for analysis 
 ├── dataset.csv                                # Heart disease dataset  
 └── requirements.txt                           # Project dependencies  
-```  
+```   
  
 ## 🚀 Features 
 
